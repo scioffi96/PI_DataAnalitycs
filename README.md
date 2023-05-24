@@ -75,7 +75,7 @@ Estos KPI se encuentran presentes en el dashboard, además de otros gráficos.
 
 ## Dashboard
 
-Para finalizar con el proyecto, se creó [un dashboard](https://github.com/scioffi96/PI_DataAnalitycs/blob/main/dashboard_pi2.pbix) en PowerBI para presentar el proyecto.
-El mismo se encuentra en este mismo repositorio. 
+Para finalizar con el proyecto, se creó [un dashboard](https://github.com/scioffi96/PI_DataAnalitycs/blob/main/dashboard_pi2.pbix) interactivo en PowerBI para presentar el proyecto.
+El mismo se encuentra en este mismo repositorio y se puede descargar y utilizar. 
 
 ![Dashboard](https://github.com/scioffi96/PI_DataAnalitycs/blob/main/dashboard_portada.PNG)
